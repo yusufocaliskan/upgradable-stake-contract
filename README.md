@@ -1,5 +1,4 @@
-# Hardhat Project
-
+# Stake Contract
 This project presents an advanced, upgradable staking contract developed in Solidity, aimed at providing flexibility and scalability for decentralized finance (DeFi) applications. Utilizing the Hardhat framework, the contract supports seamless deployment, upgrading, and testing processes, ensuring a robust and efficient staking mechanism on the Ethereum blockchain.
 
 Key Features:
